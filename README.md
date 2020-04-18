@@ -1,7 +1,8 @@
 # BOOTCAMP - Desafio 02: Conceitos do Node.js
 
-RUN
-
+**RUN**
+```
 yarn
-
 yarn dev
+```
+
